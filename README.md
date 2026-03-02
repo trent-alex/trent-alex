@@ -5,7 +5,6 @@ Check out [Hybrid-dispatch](https://github.com/trent-alex/hybrid-dispatch),  I t
 Check out Working with Legacy Ada.  I joined a evergreen defense contractor. As such they have a large older code base. This my application of Working with Legacy Code by Feather implemented with Ada.
 
 
-Check out 
 # 💫 About Me:
 I build the same way I fly steady, eyes forward, trusting the craft and the work that went into it. No room for clutter(maybe). Every movement matters(moslty). Every decision carries weight(always).<br>I have learned that good software, like low level night TAC, comes from discipline and calm resolve. You monitor the systems. You listen to the engines. You correct your course when the wind pushes you off it. You fire for effect (IYKYK). Some days the air is smooth. Most days it fights you. You keep flying.(What else are going to do live forever?)<br><br>I believe in simple tools, clear purpose, and code that holds altitude on its own. When I build something, I want it to be sound. When I learn something, I want it to sharpen my judgment.<br>If you find something here that helps you on your own flight path, then the work was worth doing.
 
