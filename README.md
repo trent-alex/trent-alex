@@ -1,6 +1,8 @@
 
 # TLDR:  
-Check out the dispatch repo,  I think Apps are on the way out. AI skills and plugins are the new digital products. This is my system to how I save token expense. Free Digital Product. Enjoy
+Check out [Hybrid-dispatch](https://github.com/trent-alex/hybrid-dispatch),  I think Apps are on the way out. AI skills and plugins are the new digital products. This is my system to how I save token expense. Free Digital Product. Enjoy
+
+Check out Working with Legacy Ada.  I joined a evergreen defense contractor. As such they have a large older code base. This my application of Working with Legacy Code by Feather implemented with Ada.
 
 
 Check out 
