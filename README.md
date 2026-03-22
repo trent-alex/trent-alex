@@ -2,7 +2,8 @@
 # TLDR: 
 📌Check out [Giddy-About-Email](https://github.com/trent-alex/GiddyAboutEmail)  I started a PivotalLift.com and the inbox became a problem. So I built a solution: a serverless NLP pipeline on AWS that triages email automatically using a fine-tuned DistilBERT model. No Sagemaker = kept the costs honest. Built it because I needed it. Learned what I needed to build it.
 
-📌Check out [Hybrid-dispatch](https://github.com/trent-alex/hybrid-dispatch),  I think Apps are on the way out. AI skills and plugins are the new digital products. This is my system to save token expense. Free Digital Product. Enjoy
+📌Check out [Hybrid-dispatch](https://github.com/trent-alex/hybrid-dispatch),  This is a routing system that scores prompt complexity and dispatches between local Ollama models and Claude automatically. 
+Simple tasks stay local and free. Complex ones escalate to cloud. Built-in recursive agent decomposes hard problems into solvable pieces. Match the asset to the task.
 
 📌Check out [Working-with-Legacy-Ada](https://github.com/trent-alex/Working-With-Legacy-Ada).  I joined a evergreen defense contractor. As such they have a large older code base. This my application of Working with Legacy Code by Feathers implemented with Ada.
 
